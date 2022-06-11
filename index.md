@@ -4,7 +4,7 @@
 
 <td width="75%">
 
-<h1>Wu Meiqi</h1>
+<h1>Wu Meiqi（吴梅起）</h1>
 
 <p><b>POSTGRADUATE</b></p>
 
