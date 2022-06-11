@@ -1,3 +1,5 @@
+<table border="0">
+
 <tr>
 
 <td width="75%">
@@ -10,13 +12,31 @@
 
 <p><b>Email：theoristwmq@mail.ustc.edu.com</b></p>
 
+<h3 class="STYLE1">Research interests:</h3>
+
+<ul>
+	  <li><strong>Machine Learning</strong><br>
+    </li></ul>
+
+<ul>
+	  <li><strong>Natural Language Processing</strong><br>
+    </li></ul>
+  
+<ul>
+	  <li><strong>Cognitive Intelligence</strong><br>
+    </li></ul>
+  
 </td>
 
 <td width="25%">
 
-<img src="/zhengjianzhao.jpg" width="100%"> % 插⼊证件照代码
+<img src="/证件照.jpg" width="100%"> 
+
 
 </td>
-
+ 
 </tr>
 
+</table>
+
+<p><b>University of Science & Technology of China</b></p>
