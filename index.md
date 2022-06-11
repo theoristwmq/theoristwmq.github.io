@@ -39,4 +39,4 @@
 
 </table>
 
-<p><b>University of Science & Technology of China</b></p>
+<h3 class="STYLE1">Publications:</h3>
